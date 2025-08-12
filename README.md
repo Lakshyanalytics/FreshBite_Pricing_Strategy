@@ -61,6 +61,6 @@ This consulting-style project aimed to **optimize pricing without eroding volume
 ## 📬 Contact
 **Lakshya Rana**  
 Economics Postgraduate | Data Analytics & Pricing Strategy Enthusiast  
-[LinkedIn](https://www.linkedin.com/lakshyarana01) | [Email](mailto:lakshyarana1806@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/lakshyarana01) | [Email](mailto:lakshyarana1806@gmail.com)
 
 ---
