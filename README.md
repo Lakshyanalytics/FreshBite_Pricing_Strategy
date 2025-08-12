@@ -47,4 +47,20 @@ This consulting-style project aimed to **optimize pricing without eroding volume
 
 ---
 
-## 📂 Repository Structure
+
+---
+
+## 🚀 How to Explore the Project
+1. **View the Report:** Open `docs/FreshBite_Project_Report.pdf` for the full business case.
+2. **Explore the Dashboard:** Download Tableau Public file or view high-resolution images in `visuals/`.
+3. **Check the Data:** See cleaned datasets in the `data/` folder.
+4. **Run Scenarios:** Use the scenario simulation tool in Excel to test different pricing strategies.
+
+---
+
+## 📬 Contact
+**Lakshya Rana**  
+Economics Postgraduate | Data Analytics & Pricing Strategy Enthusiast  
+[LinkedIn](https://www.linkedin.com/lakshyarana01) | [Email](mailto:lakshyarana1806@gmail.com)
+
+---
