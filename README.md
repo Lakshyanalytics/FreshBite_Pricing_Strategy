@@ -50,11 +50,10 @@ This consulting-style project aimed to **optimize pricing without eroding volume
 
 ---
 
-## 🚀 How to Explore the Project
-1. **View the Report:** Open `docs/FreshBite_Project_Report.pdf` for the full business case.
-2. **Explore the Dashboard:** Download Tableau Public file or view high-resolution images in `visuals/`.
-3. **Check the Data:** See cleaned datasets in the `data/` folder.
-4. **Run Scenarios:** Use the scenario simulation tool in Excel to test different pricing strategies.
+## 🛠 Deliverables
+- 📊 **[Download the Excel Model](https://github.com/Lakshyanalytics/FreshBite_Pricing_Strategy/blob/main/FreshBite_Pricing_Analytics.xlsx)**
+- 🎯 **[Download the PowerPoint Deck](https://github.com/Lakshyanalytics/FreshBite_Pricing_Strategy/blob/main/FreshBite_Pricing_Strategy_Presentation.pptx)**
+
 
 ---
 
